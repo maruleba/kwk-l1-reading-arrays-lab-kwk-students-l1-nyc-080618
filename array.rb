@@ -1,5 +1,4 @@
-books = ["green eggs, "Wat". "seven", "paap johs]
-
-  
-  books.each do |funny book|
+books = ["Green eggs. "Wat", "paap johs]
+books.each do |funny_book|
   puts "# {funny_book}"
+end
