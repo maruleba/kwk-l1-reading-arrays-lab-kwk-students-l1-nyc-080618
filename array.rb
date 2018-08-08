@@ -15,3 +15,4 @@ puts "Your age is  #{age}"
 total = total + age 
 end
 puts total
+
